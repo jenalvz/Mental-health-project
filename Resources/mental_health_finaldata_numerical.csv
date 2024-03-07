@@ -1,0 +1,825 @@
+Age,Gender,Occupation,Days_Indoors,Growing_Stress,Quarantine_Frustrations,Changes_Habits,Mental_Health_History,Weight_Change,Mood_Swings,Coping_Struggles,Work_Interest,Social_Weakness
+20-25,Female,Corporate,1-14 days,1,1,0,1,1,Medium,No,0,1
+30-Above,Male,Others,31-60 days,1,1,2,0,0,High,No,0,1
+30-Above,Female,Student,Go out Every day,0,0,1,0,0,Medium,Yes,2,0
+25-30,Male,Others,1-14 days,1,0,2,0,2,Medium,No,2,1
+16-20,Female,Student,More than 2 months,1,1,1,0,1,Medium,Yes,2,0
+25-30,Male,Housewife,More than 2 months,0,1,1,1,1,Medium,No,2,2
+16-20,Female,Business,Go out Every day,1,1,2,0,1,Low,No,2,2
+25-30,Female,Student,1-14 days,1,0,2,2,2,High,No,0,1
+30-Above,Male,Others,Go out Every day,1,1,1,0,1,Medium,Yes,2,2
+20-25,Male,Corporate,Go out Every day,2,2,1,1,1,Low,No,2,0
+16-20,Male,Others,31-60 days,0,2,0,2,0,Low,No,2,1
+30-Above,Female,Business,More than 2 months,1,1,0,0,1,High,No,0,2
+25-30,Male,Others,15-30 days,2,1,0,1,1,Medium,No,2,0
+30-Above,Female,Housewife,15-30 days,1,1,1,0,0,Low,Yes,0,2
+30-Above,Female,Housewife,1-14 days,0,0,0,2,2,Medium,No,0,2
+16-20,Male,Corporate,More than 2 months,0,0,2,1,2,Medium,No,0,2
+16-20,Female,Student,1-14 days,1,1,2,0,1,Medium,No,0,0
+25-30,Female,Others,More than 2 months,1,1,2,2,2,Medium,Yes,2,1
+30-Above,Male,Student,31-60 days,2,0,2,0,1,Medium,Yes,1,2
+16-20,Female,Student,1-14 days,1,1,1,0,1,High,No,1,2
+30-Above,Female,Housewife,Go out Every day,0,2,0,0,2,Medium,Yes,1,2
+16-20,Male,Housewife,15-30 days,0,2,0,1,0,High,No,2,0
+30-Above,Female,Student,31-60 days,1,2,0,2,0,Medium,Yes,0,2
+16-20,Female,Student,1-14 days,0,1,2,1,0,Low,No,1,1
+20-25,Female,Business,More than 2 months,2,0,2,0,1,Medium,Yes,1,0
+30-Above,Female,Housewife,1-14 days,1,2,2,1,1,Low,Yes,2,1
+30-Above,Male,Student,15-30 days,1,2,0,2,2,Medium,No,1,2
+20-25,Male,Student,1-14 days,1,0,2,0,2,High,Yes,2,0
+20-25,Female,Others,1-14 days,1,1,2,2,1,High,Yes,0,1
+30-Above,Female,Student,31-60 days,0,1,0,1,0,Low,No,0,2
+30-Above,Male,Business,More than 2 months,1,2,0,2,2,Medium,No,2,1
+30-Above,Female,Corporate,Go out Every day,2,2,0,2,2,Medium,No,0,1
+25-30,Female,Business,1-14 days,1,0,0,0,1,Medium,No,0,2
+20-25,Female,Business,15-30 days,2,1,0,0,0,Low,No,0,0
+16-20,Female,Student,Go out Every day,2,0,2,1,2,High,Yes,0,1
+16-20,Male,Business,31-60 days,1,1,2,0,2,Medium,No,1,1
+20-25,Male,Corporate,15-30 days,1,1,1,0,2,Low,Yes,0,2
+16-20,Male,Corporate,15-30 days,1,1,2,0,2,Medium,No,2,2
+25-30,Female,Others,31-60 days,1,1,2,1,0,High,Yes,1,0
+30-Above,Female,Housewife,Go out Every day,2,2,0,2,2,High,Yes,1,1
+30-Above,Female,Business,31-60 days,0,0,2,0,0,Low,Yes,0,2
+30-Above,Female,Corporate,Go out Every day,1,2,0,2,1,Low,Yes,0,0
+25-30,Female,Housewife,31-60 days,1,0,0,2,1,Medium,No,1,0
+20-25,Male,Student,More than 2 months,0,2,2,0,1,High,No,1,1
+20-25,Female,Business,31-60 days,1,1,0,1,0,Low,Yes,2,2
+20-25,Female,Corporate,Go out Every day,2,1,1,2,1,High,No,2,0
+20-25,Male,Housewife,15-30 days,1,0,2,0,0,Medium,No,2,1
+25-30,Female,Student,More than 2 months,1,0,0,2,1,Medium,No,0,1
+20-25,Male,Student,1-14 days,2,1,1,2,1,High,No,0,0
+16-20,Female,Others,More than 2 months,0,0,1,0,2,Low,Yes,2,0
+25-30,Female,Student,15-30 days,2,1,1,1,1,High,Yes,0,0
+30-Above,Female,Student,More than 2 months,2,0,2,0,2,Low,Yes,2,1
+16-20,Male,Others,More than 2 months,1,1,1,1,2,Low,Yes,0,0
+30-Above,Male,Others,31-60 days,0,1,0,1,2,Low,Yes,2,0
+30-Above,Male,Others,More than 2 months,2,0,1,0,2,High,No,1,0
+16-20,Female,Corporate,Go out Every day,0,1,0,1,0,Medium,No,2,0
+16-20,Male,Student,Go out Every day,2,2,0,2,2,High,Yes,1,2
+25-30,Male,Others,1-14 days,2,2,1,1,1,Low,No,0,2
+30-Above,Male,Others,1-14 days,0,2,0,1,2,Low,No,0,0
+20-25,Male,Student,31-60 days,2,0,0,1,2,Low,Yes,2,1
+16-20,Female,Housewife,Go out Every day,0,1,2,2,2,Low,No,2,0
+25-30,Male,Corporate,15-30 days,2,2,0,0,1,Medium,Yes,1,0
+20-25,Female,Business,More than 2 months,0,0,2,2,0,Low,No,0,1
+16-20,Male,Student,Go out Every day,1,1,0,2,1,High,Yes,2,1
+30-Above,Male,Housewife,15-30 days,2,2,1,1,1,Low,No,1,0
+30-Above,Male,Business,More than 2 months,2,0,2,2,1,Low,No,2,0
+25-30,Female,Others,More than 2 months,1,1,0,0,2,Medium,Yes,2,1
+25-30,Female,Corporate,1-14 days,1,1,2,2,1,Medium,Yes,2,1
+20-25,Male,Housewife,Go out Every day,2,1,0,2,0,High,Yes,0,2
+25-30,Male,Housewife,31-60 days,2,1,0,2,2,Low,No,0,0
+30-Above,Male,Housewife,More than 2 months,2,0,0,2,0,Medium,No,0,1
+25-30,Male,Corporate,Go out Every day,2,1,2,2,0,Low,Yes,2,0
+25-30,Female,Corporate,More than 2 months,1,0,2,2,2,Low,Yes,0,2
+16-20,Male,Corporate,31-60 days,0,2,1,2,0,Medium,No,0,1
+25-30,Female,Housewife,15-30 days,0,2,1,0,2,High,Yes,0,0
+20-25,Female,Business,31-60 days,1,2,1,2,2,Low,Yes,1,1
+30-Above,Female,Housewife,15-30 days,0,0,1,0,0,High,No,1,2
+30-Above,Female,Corporate,31-60 days,2,0,2,0,2,High,No,2,0
+20-25,Male,Housewife,Go out Every day,0,1,2,1,0,High,No,1,0
+30-Above,Male,Business,31-60 days,1,1,2,0,1,Medium,Yes,2,2
+25-30,Female,Housewife,1-14 days,1,2,0,1,0,Low,Yes,0,0
+30-Above,Female,Corporate,More than 2 months,1,0,1,0,2,Medium,No,0,0
+16-20,Female,Student,15-30 days,1,2,2,2,2,High,No,0,2
+30-Above,Male,Corporate,More than 2 months,2,2,1,2,0,Medium,No,1,2
+30-Above,Female,Corporate,31-60 days,1,0,2,2,1,High,No,1,2
+16-20,Male,Corporate,Go out Every day,0,2,1,2,0,Low,No,2,1
+20-25,Female,Student,Go out Every day,0,2,0,0,0,Low,No,2,1
+25-30,Female,Others,31-60 days,2,0,2,2,0,High,Yes,1,1
+25-30,Male,Others,15-30 days,1,2,1,2,1,High,No,0,2
+30-Above,Female,Business,15-30 days,2,2,1,0,2,High,Yes,1,1
+30-Above,Female,Housewife,15-30 days,0,2,1,1,2,Medium,Yes,0,2
+16-20,Male,Housewife,1-14 days,0,2,0,2,0,Medium,No,1,0
+30-Above,Female,Housewife,1-14 days,2,2,1,0,0,Low,Yes,2,0
+20-25,Female,Housewife,15-30 days,1,0,2,1,2,Medium,No,1,0
+25-30,Female,Others,31-60 days,0,1,1,2,0,Medium,No,0,2
+16-20,Female,Housewife,31-60 days,2,2,0,1,1,High,No,2,2
+30-Above,Male,Corporate,Go out Every day,2,0,2,1,0,High,No,2,1
+16-20,Male,Student,Go out Every day,1,2,1,0,2,High,Yes,1,2
+30-Above,Female,Corporate,15-30 days,2,1,2,0,2,High,Yes,1,0
+16-20,Male,Corporate,31-60 days,0,0,1,2,2,Medium,Yes,1,1
+25-30,Female,Business,More than 2 months,1,1,0,1,0,Medium,No,1,2
+16-20,Male,Corporate,More than 2 months,0,1,2,2,0,High,Yes,1,0
+20-25,Female,Corporate,More than 2 months,2,2,1,0,2,Medium,Yes,2,1
+30-Above,Female,Corporate,15-30 days,1,2,1,0,2,Low,Yes,1,1
+30-Above,Female,Housewife,Go out Every day,1,1,0,0,2,High,No,2,0
+20-25,Male,Student,Go out Every day,0,0,1,1,1,Medium,No,0,2
+16-20,Female,Business,More than 2 months,1,2,1,2,1,Low,No,2,2
+25-30,Male,Housewife,15-30 days,1,2,0,0,0,Low,No,1,1
+30-Above,Female,Others,15-30 days,2,0,1,1,1,Low,Yes,0,1
+16-20,Female,Housewife,Go out Every day,2,1,1,2,0,High,Yes,1,0
+16-20,Male,Others,1-14 days,0,2,2,2,2,High,No,0,2
+16-20,Male,Business,Go out Every day,2,0,1,0,1,Medium,Yes,0,1
+16-20,Male,Housewife,31-60 days,1,1,1,1,2,Low,No,0,2
+20-25,Male,Student,1-14 days,1,1,1,0,0,Medium,No,2,1
+16-20,Female,Business,15-30 days,2,0,1,0,1,Low,Yes,0,1
+25-30,Female,Business,Go out Every day,0,1,0,1,0,Low,Yes,1,0
+25-30,Female,Others,Go out Every day,2,0,2,0,0,Low,Yes,0,1
+16-20,Female,Business,1-14 days,0,0,2,1,2,High,No,1,1
+16-20,Male,Others,More than 2 months,1,0,0,2,1,Low,Yes,0,0
+16-20,Female,Housewife,More than 2 months,1,1,1,2,2,Medium,Yes,1,2
+30-Above,Male,Corporate,31-60 days,1,0,2,2,2,Low,No,0,1
+25-30,Male,Student,31-60 days,1,1,1,0,1,Low,No,1,0
+16-20,Male,Corporate,More than 2 months,1,1,2,0,2,High,No,2,2
+30-Above,Male,Others,More than 2 months,0,0,0,0,0,High,No,1,0
+16-20,Female,Corporate,1-14 days,1,1,2,2,0,High,No,1,2
+25-30,Female,Student,Go out Every day,1,2,1,1,1,Medium,Yes,2,2
+30-Above,Female,Student,1-14 days,1,2,1,0,0,Low,Yes,0,1
+20-25,Female,Business,More than 2 months,2,0,1,1,0,Medium,Yes,1,0
+16-20,Male,Business,15-30 days,1,2,1,1,2,High,Yes,1,0
+30-Above,Male,Student,31-60 days,0,1,2,1,1,Low,No,0,2
+20-25,Female,Student,More than 2 months,2,0,0,0,0,Low,Yes,1,1
+20-25,Female,Student,31-60 days,0,2,0,1,1,High,No,1,0
+16-20,Male,Student,15-30 days,2,1,1,1,2,High,Yes,0,1
+30-Above,Male,Housewife,31-60 days,1,2,2,2,2,Low,Yes,1,2
+16-20,Male,Housewife,More than 2 months,2,1,0,0,0,Low,Yes,2,0
+30-Above,Male,Student,Go out Every day,1,2,1,0,0,Medium,Yes,2,1
+20-25,Male,Others,31-60 days,2,1,0,0,1,Medium,Yes,2,1
+20-25,Female,Student,Go out Every day,2,1,2,2,0,Low,Yes,1,1
+20-25,Female,Student,15-30 days,0,1,2,2,1,Low,No,2,1
+16-20,Female,Corporate,15-30 days,0,0,2,0,0,Low,No,1,1
+16-20,Female,Housewife,More than 2 months,0,2,0,2,1,Low,Yes,1,2
+25-30,Female,Others,More than 2 months,0,0,1,0,0,High,Yes,0,1
+25-30,Male,Housewife,More than 2 months,1,0,2,1,1,Medium,Yes,2,1
+30-Above,Female,Student,15-30 days,2,2,2,0,2,Medium,No,0,0
+25-30,Female,Business,15-30 days,1,0,2,2,0,High,No,0,0
+25-30,Female,Corporate,More than 2 months,2,1,1,2,0,High,No,2,2
+25-30,Male,Corporate,31-60 days,0,2,2,0,0,Low,Yes,0,2
+30-Above,Male,Housewife,1-14 days,1,1,1,1,2,Low,Yes,1,1
+16-20,Female,Business,31-60 days,0,1,0,2,0,High,No,2,2
+25-30,Female,Student,Go out Every day,2,2,1,1,2,High,Yes,2,0
+25-30,Male,Others,31-60 days,0,2,1,1,0,Medium,No,0,0
+25-30,Male,Others,31-60 days,2,2,2,2,2,High,No,0,2
+16-20,Male,Corporate,15-30 days,1,2,1,1,2,Low,Yes,1,0
+30-Above,Female,Others,31-60 days,2,2,1,2,2,Low,Yes,1,0
+20-25,Male,Housewife,1-14 days,1,0,0,0,1,Low,No,2,1
+30-Above,Male,Business,31-60 days,2,2,1,0,1,Low,Yes,2,0
+25-30,Male,Housewife,Go out Every day,1,0,1,1,0,High,No,1,1
+30-Above,Female,Housewife,Go out Every day,1,1,2,1,1,Medium,No,1,2
+16-20,Female,Business,Go out Every day,2,2,1,1,2,Low,Yes,1,0
+20-25,Male,Others,1-14 days,0,2,0,1,1,Low,No,2,0
+16-20,Male,Corporate,1-14 days,1,1,0,1,1,Medium,Yes,2,2
+20-25,Male,Housewife,Go out Every day,1,2,1,1,2,Medium,No,1,1
+16-20,Female,Housewife,31-60 days,2,2,1,0,1,High,Yes,2,0
+25-30,Female,Business,Go out Every day,1,1,2,2,1,Low,Yes,0,0
+20-25,Female,Housewife,1-14 days,1,1,1,0,0,High,Yes,0,0
+25-30,Male,Student,31-60 days,2,1,1,0,2,Medium,Yes,0,1
+25-30,Female,Business,Go out Every day,1,1,2,0,1,Low,Yes,2,2
+20-25,Male,Business,31-60 days,0,2,1,2,0,Low,No,2,0
+20-25,Female,Housewife,Go out Every day,1,1,1,0,1,High,No,2,2
+30-Above,Male,Corporate,15-30 days,1,2,0,0,2,High,Yes,2,0
+25-30,Male,Corporate,15-30 days,2,1,0,0,1,Medium,No,0,1
+20-25,Male,Corporate,More than 2 months,1,1,2,1,2,Medium,No,0,2
+30-Above,Female,Housewife,1-14 days,1,2,2,1,2,High,No,0,1
+30-Above,Female,Business,Go out Every day,2,1,1,0,2,Low,No,1,0
+30-Above,Male,Housewife,1-14 days,0,2,0,2,1,Medium,Yes,1,0
+20-25,Male,Others,Go out Every day,0,1,2,1,0,Low,Yes,2,2
+25-30,Male,Business,Go out Every day,2,1,0,1,0,Low,Yes,1,0
+25-30,Female,Corporate,Go out Every day,2,0,1,2,2,Low,Yes,1,0
+16-20,Female,Housewife,1-14 days,0,2,1,2,2,Medium,No,0,2
+20-25,Female,Housewife,15-30 days,1,2,0,2,2,Low,Yes,0,1
+30-Above,Female,Corporate,1-14 days,1,1,2,0,2,Medium,No,1,0
+25-30,Female,Others,More than 2 months,2,1,0,1,0,Low,No,1,0
+16-20,Male,Corporate,More than 2 months,2,1,2,1,2,Low,No,2,1
+16-20,Male,Business,More than 2 months,1,0,1,2,2,Medium,No,2,2
+16-20,Female,Student,1-14 days,0,1,1,2,0,Low,Yes,2,2
+25-30,Male,Others,1-14 days,2,1,2,1,2,Medium,Yes,1,2
+20-25,Female,Corporate,1-14 days,0,2,1,2,2,High,Yes,1,0
+20-25,Female,Others,31-60 days,2,2,1,1,0,High,No,2,1
+30-Above,Female,Corporate,31-60 days,1,1,1,2,2,Medium,Yes,1,0
+30-Above,Male,Others,Go out Every day,0,0,1,0,1,High,No,2,2
+30-Above,Female,Business,Go out Every day,0,0,1,1,2,High,Yes,2,1
+25-30,Female,Others,15-30 days,2,2,2,0,0,Low,No,2,2
+20-25,Female,Business,15-30 days,1,1,0,0,1,Medium,Yes,0,1
+30-Above,Male,Business,More than 2 months,2,2,0,1,0,Medium,Yes,0,2
+30-Above,Male,Others,15-30 days,2,1,0,1,2,Medium,No,0,1
+25-30,Female,Others,More than 2 months,2,2,1,1,0,Low,Yes,2,2
+30-Above,Female,Corporate,More than 2 months,2,1,1,2,1,Medium,No,1,0
+20-25,Female,Business,1-14 days,1,2,1,0,2,Low,No,1,2
+25-30,Male,Others,31-60 days,2,0,2,0,1,Low,Yes,1,1
+20-25,Female,Others,31-60 days,2,2,1,2,1,Medium,No,1,0
+16-20,Male,Business,Go out Every day,0,1,1,1,1,Low,Yes,2,2
+25-30,Male,Student,1-14 days,2,2,1,2,1,High,Yes,0,0
+16-20,Male,Corporate,1-14 days,1,1,2,2,2,Low,Yes,1,2
+20-25,Male,Student,More than 2 months,2,2,0,2,0,Low,No,2,2
+25-30,Male,Corporate,1-14 days,1,2,0,2,2,High,Yes,1,2
+25-30,Female,Student,1-14 days,0,1,0,2,2,High,No,1,1
+25-30,Male,Housewife,Go out Every day,2,1,0,1,0,High,No,0,2
+25-30,Male,Housewife,15-30 days,0,2,0,0,1,High,Yes,1,0
+16-20,Female,Others,15-30 days,2,1,0,1,0,Low,Yes,0,1
+30-Above,Female,Business,31-60 days,0,0,2,1,0,Low,Yes,2,1
+20-25,Male,Others,15-30 days,1,0,1,1,2,Low,Yes,1,1
+30-Above,Male,Business,31-60 days,2,1,2,2,2,Low,No,2,1
+25-30,Female,Corporate,15-30 days,0,1,1,1,2,Low,Yes,2,2
+16-20,Female,Housewife,Go out Every day,1,1,1,2,0,Medium,No,0,1
+25-30,Male,Corporate,31-60 days,0,1,0,1,2,High,Yes,0,0
+25-30,Male,Business,1-14 days,0,2,0,0,2,High,No,0,2
+25-30,Male,Housewife,15-30 days,0,1,1,2,2,Medium,Yes,1,2
+16-20,Male,Student,15-30 days,2,1,0,0,1,Low,No,0,1
+25-30,Male,Housewife,1-14 days,0,1,1,2,1,Medium,Yes,2,2
+16-20,Female,Student,31-60 days,2,2,0,0,0,Medium,No,0,1
+30-Above,Female,Corporate,15-30 days,0,2,2,1,1,Medium,Yes,2,1
+25-30,Female,Corporate,More than 2 months,0,2,0,1,2,Medium,Yes,1,0
+16-20,Male,Corporate,More than 2 months,1,1,1,2,2,Low,No,0,2
+20-25,Male,Student,More than 2 months,1,0,1,2,0,High,No,0,1
+20-25,Male,Corporate,Go out Every day,0,1,2,2,2,Low,No,0,0
+30-Above,Female,Student,31-60 days,1,2,0,2,1,Low,No,1,0
+25-30,Male,Corporate,Go out Every day,1,0,0,1,0,Medium,No,0,2
+20-25,Male,Student,More than 2 months,1,2,1,1,1,Low,Yes,2,0
+30-Above,Female,Student,31-60 days,2,2,1,2,0,Medium,Yes,2,0
+30-Above,Male,Business,31-60 days,2,0,0,2,2,Medium,No,0,0
+16-20,Female,Housewife,1-14 days,1,1,2,1,0,High,Yes,1,2
+25-30,Female,Business,More than 2 months,2,2,2,2,1,Low,Yes,2,2
+30-Above,Female,Others,1-14 days,0,2,1,2,2,Medium,No,2,2
+20-25,Female,Business,Go out Every day,2,0,2,0,1,Low,Yes,2,1
+20-25,Male,Corporate,More than 2 months,1,0,2,1,2,Medium,Yes,1,2
+30-Above,Male,Student,31-60 days,0,2,2,2,1,High,No,0,2
+16-20,Female,Others,31-60 days,1,2,0,2,0,Low,No,1,0
+16-20,Female,Housewife,Go out Every day,1,0,2,0,0,High,Yes,0,0
+25-30,Male,Others,1-14 days,0,0,2,2,1,High,Yes,1,0
+25-30,Male,Business,More than 2 months,2,2,1,1,1,Medium,Yes,0,0
+16-20,Female,Others,1-14 days,1,1,0,1,2,High,Yes,1,0
+30-Above,Female,Student,Go out Every day,1,2,1,2,1,Medium,Yes,0,2
+30-Above,Male,Student,31-60 days,2,1,0,0,0,High,Yes,2,2
+20-25,Male,Corporate,1-14 days,2,1,1,2,1,Low,No,0,1
+16-20,Female,Student,15-30 days,0,2,0,1,0,Low,No,2,0
+30-Above,Female,Student,31-60 days,2,0,1,0,2,Low,Yes,1,1
+25-30,Male,Business,Go out Every day,0,1,1,0,1,Medium,Yes,1,2
+16-20,Female,Corporate,More than 2 months,1,1,1,0,2,Low,Yes,2,2
+30-Above,Female,Student,Go out Every day,0,2,0,1,2,High,No,0,0
+30-Above,Male,Housewife,Go out Every day,0,1,1,0,2,Medium,No,1,2
+30-Above,Male,Others,31-60 days,2,2,1,2,1,Low,Yes,1,0
+16-20,Male,Corporate,More than 2 months,2,0,1,2,2,Medium,No,1,0
+20-25,Female,Student,More than 2 months,1,1,2,2,2,High,No,2,0
+20-25,Male,Business,15-30 days,1,0,0,2,0,Low,No,1,0
+25-30,Female,Housewife,More than 2 months,0,2,0,1,2,High,No,2,0
+30-Above,Female,Others,31-60 days,2,2,0,1,2,Low,Yes,2,0
+20-25,Male,Housewife,1-14 days,2,0,1,1,2,Medium,No,2,0
+25-30,Female,Housewife,1-14 days,1,2,1,1,2,Medium,Yes,0,2
+16-20,Female,Corporate,31-60 days,0,2,0,2,2,High,No,0,2
+25-30,Female,Business,Go out Every day,0,0,1,0,1,High,Yes,2,1
+25-30,Female,Student,More than 2 months,1,1,1,0,2,High,No,0,0
+16-20,Female,Corporate,31-60 days,1,1,1,2,2,Medium,No,1,2
+30-Above,Female,Business,31-60 days,1,1,0,0,2,High,No,2,1
+30-Above,Male,Corporate,1-14 days,0,0,1,0,0,Medium,Yes,0,2
+25-30,Female,Business,Go out Every day,0,2,2,2,2,High,Yes,2,0
+16-20,Male,Housewife,15-30 days,2,2,2,2,2,High,No,1,2
+30-Above,Female,Corporate,More than 2 months,1,1,0,2,1,Medium,No,2,1
+30-Above,Male,Student,15-30 days,0,0,1,2,1,Low,No,2,1
+20-25,Female,Others,1-14 days,2,2,2,2,0,Medium,No,1,2
+25-30,Male,Corporate,31-60 days,1,1,2,2,2,Medium,No,2,2
+16-20,Female,Others,15-30 days,0,1,0,2,0,Low,Yes,0,1
+20-25,Male,Business,1-14 days,2,0,2,1,1,High,No,1,0
+20-25,Female,Housewife,More than 2 months,2,1,2,1,1,High,No,1,2
+16-20,Female,Student,Go out Every day,0,2,0,2,0,Low,No,1,0
+25-30,Male,Housewife,31-60 days,2,2,2,0,2,Low,Yes,1,1
+20-25,Female,Student,Go out Every day,0,0,2,1,2,High,Yes,2,2
+20-25,Female,Others,1-14 days,1,0,1,2,0,Low,Yes,2,0
+25-30,Female,Corporate,31-60 days,1,2,2,1,1,Medium,Yes,0,0
+30-Above,Male,Student,More than 2 months,2,1,0,1,2,High,Yes,2,0
+30-Above,Female,Corporate,31-60 days,1,0,1,1,1,Medium,Yes,1,1
+20-25,Male,Student,Go out Every day,2,2,2,1,2,High,No,0,2
+30-Above,Male,Corporate,More than 2 months,1,0,0,2,2,Medium,Yes,2,1
+30-Above,Male,Business,15-30 days,0,2,1,2,2,Medium,Yes,2,1
+16-20,Male,Student,31-60 days,0,1,2,2,2,Low,Yes,2,2
+30-Above,Female,Corporate,31-60 days,0,2,0,2,1,High,No,0,2
+25-30,Male,Student,More than 2 months,0,2,1,1,0,High,No,2,0
+20-25,Male,Business,15-30 days,2,0,1,0,2,High,Yes,0,2
+16-20,Female,Business,Go out Every day,0,1,2,0,1,Low,Yes,1,2
+25-30,Female,Business,31-60 days,1,0,0,2,2,High,No,0,0
+25-30,Female,Others,31-60 days,1,0,1,0,1,High,Yes,1,1
+20-25,Male,Business,1-14 days,2,2,2,0,0,High,No,0,2
+30-Above,Female,Others,1-14 days,1,2,2,2,2,Medium,Yes,1,1
+20-25,Female,Student,15-30 days,2,1,2,1,0,High,Yes,2,0
+30-Above,Female,Corporate,15-30 days,2,2,1,2,2,Low,No,0,2
+25-30,Female,Student,More than 2 months,1,2,0,2,1,Low,No,0,1
+30-Above,Male,Others,31-60 days,2,2,0,0,1,Medium,Yes,2,2
+25-30,Female,Corporate,31-60 days,0,1,1,1,1,Medium,Yes,1,2
+20-25,Female,Corporate,More than 2 months,1,2,2,1,0,High,Yes,2,0
+20-25,Female,Corporate,31-60 days,0,1,2,0,0,High,Yes,0,2
+25-30,Female,Business,Go out Every day,0,1,0,0,1,Medium,Yes,0,2
+25-30,Male,Housewife,1-14 days,1,1,2,0,2,Low,No,2,0
+16-20,Male,Business,31-60 days,0,0,1,1,2,High,No,1,2
+20-25,Female,Housewife,More than 2 months,2,0,2,1,2,Medium,Yes,0,0
+25-30,Female,Others,31-60 days,1,2,2,1,1,High,Yes,1,0
+30-Above,Male,Others,Go out Every day,2,1,2,2,0,High,No,2,2
+16-20,Female,Others,15-30 days,1,1,0,1,0,High,Yes,2,0
+25-30,Male,Business,15-30 days,1,2,2,1,0,Medium,No,2,1
+25-30,Female,Others,More than 2 months,1,1,0,0,2,High,Yes,0,2
+30-Above,Male,Corporate,1-14 days,0,1,2,1,0,Medium,No,1,2
+20-25,Female,Housewife,15-30 days,1,1,0,0,1,Low,No,1,1
+30-Above,Female,Housewife,31-60 days,1,0,1,0,2,Low,Yes,2,2
+20-25,Male,Business,1-14 days,1,2,2,0,2,Medium,Yes,0,1
+16-20,Male,Corporate,31-60 days,2,0,2,2,2,High,No,0,1
+30-Above,Female,Others,31-60 days,2,0,2,2,0,Low,Yes,0,1
+20-25,Female,Student,31-60 days,0,0,2,2,1,Medium,Yes,1,0
+30-Above,Female,Corporate,15-30 days,0,0,2,1,1,High,No,0,0
+16-20,Male,Housewife,1-14 days,1,2,1,1,1,Medium,No,2,0
+30-Above,Female,Housewife,15-30 days,0,1,0,2,0,High,No,2,0
+25-30,Female,Housewife,Go out Every day,0,0,0,0,2,High,No,2,1
+16-20,Male,Housewife,15-30 days,2,2,0,0,1,Low,Yes,2,1
+30-Above,Female,Housewife,More than 2 months,0,2,2,0,1,High,No,0,1
+25-30,Male,Housewife,15-30 days,1,0,2,1,0,Medium,No,2,0
+16-20,Male,Student,15-30 days,2,1,2,1,0,Low,No,0,1
+16-20,Female,Student,Go out Every day,0,1,1,2,2,Medium,No,0,2
+16-20,Female,Housewife,More than 2 months,2,0,2,2,1,Low,No,1,2
+25-30,Female,Business,Go out Every day,2,1,1,0,1,High,Yes,0,0
+30-Above,Female,Business,15-30 days,2,2,1,1,0,High,Yes,1,1
+25-30,Male,Corporate,Go out Every day,2,2,2,0,0,High,No,0,2
+30-Above,Female,Student,More than 2 months,1,1,2,0,1,Low,Yes,0,1
+20-25,Female,Business,1-14 days,0,1,2,2,0,Medium,Yes,2,0
+25-30,Female,Others,More than 2 months,0,0,2,0,2,High,No,1,2
+20-25,Male,Student,More than 2 months,0,1,0,0,0,Low,Yes,1,0
+20-25,Male,Student,1-14 days,2,2,0,2,1,Low,Yes,0,2
+30-Above,Female,Others,15-30 days,0,1,2,0,1,Medium,Yes,0,1
+25-30,Male,Housewife,More than 2 months,0,1,1,1,1,Low,Yes,0,0
+16-20,Female,Business,1-14 days,1,2,1,1,1,High,Yes,1,2
+25-30,Female,Corporate,31-60 days,2,2,1,0,2,Low,Yes,0,0
+20-25,Female,Corporate,1-14 days,1,0,1,2,0,High,No,2,0
+16-20,Male,Corporate,15-30 days,0,0,1,0,1,High,No,2,2
+30-Above,Male,Business,Go out Every day,2,0,1,1,2,High,Yes,2,0
+16-20,Male,Housewife,15-30 days,0,0,0,1,1,Low,No,0,1
+25-30,Male,Business,15-30 days,2,0,0,1,0,Medium,Yes,2,2
+30-Above,Male,Corporate,Go out Every day,0,0,0,2,2,Low,Yes,1,2
+30-Above,Female,Housewife,Go out Every day,1,1,2,2,2,Medium,Yes,2,0
+16-20,Male,Corporate,Go out Every day,2,0,1,0,2,High,No,2,0
+16-20,Male,Corporate,1-14 days,1,0,2,1,1,Low,No,0,1
+25-30,Male,Student,15-30 days,0,1,1,2,2,High,No,0,0
+25-30,Female,Student,1-14 days,1,2,0,0,1,Medium,Yes,2,2
+16-20,Female,Housewife,Go out Every day,2,0,0,0,0,Low,Yes,2,2
+30-Above,Female,Others,More than 2 months,0,0,1,2,0,Low,No,2,2
+30-Above,Female,Business,Go out Every day,1,1,0,2,2,High,No,0,0
+16-20,Female,Business,15-30 days,0,1,1,2,0,Low,Yes,2,1
+16-20,Female,Business,31-60 days,1,0,1,2,2,High,No,1,0
+25-30,Female,Business,1-14 days,1,0,1,0,0,High,Yes,1,1
+30-Above,Male,Housewife,15-30 days,2,0,0,2,2,Medium,No,2,1
+30-Above,Male,Business,Go out Every day,2,1,1,2,0,High,Yes,2,2
+16-20,Male,Others,15-30 days,1,1,1,1,0,Medium,No,1,0
+16-20,Female,Student,Go out Every day,2,0,1,1,0,Low,No,1,1
+16-20,Male,Student,15-30 days,0,1,2,2,2,Low,Yes,1,1
+16-20,Female,Corporate,31-60 days,2,0,0,2,1,Medium,Yes,2,0
+20-25,Male,Others,More than 2 months,2,2,1,1,0,Low,No,0,0
+25-30,Female,Others,15-30 days,2,1,0,0,0,Low,Yes,1,2
+20-25,Female,Business,15-30 days,1,0,0,1,0,High,Yes,2,1
+20-25,Female,Corporate,15-30 days,2,1,0,2,0,High,No,1,1
+25-30,Male,Others,31-60 days,0,2,2,2,0,Low,Yes,0,1
+30-Above,Male,Others,15-30 days,1,1,1,1,0,High,Yes,1,1
+16-20,Female,Others,Go out Every day,2,2,0,1,1,Low,Yes,0,2
+20-25,Male,Business,1-14 days,1,1,1,0,1,Low,No,2,1
+30-Above,Male,Student,31-60 days,1,2,1,1,0,Low,No,2,0
+30-Above,Male,Business,15-30 days,1,2,1,0,2,Medium,No,0,0
+20-25,Male,Corporate,Go out Every day,1,2,2,2,0,Low,No,1,2
+25-30,Male,Student,More than 2 months,1,1,1,1,1,High,Yes,1,2
+16-20,Female,Corporate,15-30 days,1,1,0,1,0,Medium,Yes,0,2
+25-30,Female,Business,Go out Every day,2,0,2,1,0,Medium,Yes,0,0
+20-25,Female,Corporate,31-60 days,1,0,2,1,1,Low,No,1,1
+25-30,Male,Others,15-30 days,0,0,1,0,0,High,No,2,0
+20-25,Male,Corporate,Go out Every day,1,2,0,2,1,Medium,No,1,1
+16-20,Female,Others,1-14 days,1,1,2,2,0,High,No,0,2
+25-30,Female,Corporate,1-14 days,1,0,2,0,1,High,No,0,1
+25-30,Female,Others,15-30 days,1,0,2,0,0,High,Yes,1,1
+20-25,Male,Business,More than 2 months,1,1,2,1,2,Medium,Yes,0,2
+30-Above,Male,Corporate,31-60 days,2,2,0,2,1,Medium,No,0,2
+30-Above,Female,Others,1-14 days,1,1,1,1,1,Medium,No,1,0
+20-25,Male,Corporate,31-60 days,0,0,0,0,2,Medium,Yes,2,1
+20-25,Male,Corporate,15-30 days,2,0,0,2,2,High,Yes,2,2
+16-20,Male,Student,Go out Every day,2,0,1,0,2,Low,No,0,1
+25-30,Male,Student,1-14 days,1,2,1,1,2,Medium,Yes,2,0
+30-Above,Female,Housewife,31-60 days,1,2,2,2,1,Medium,Yes,0,2
+30-Above,Male,Others,31-60 days,0,2,0,0,2,Medium,Yes,0,1
+20-25,Female,Housewife,More than 2 months,1,0,2,1,1,Medium,Yes,0,1
+30-Above,Male,Corporate,1-14 days,0,2,1,2,2,Low,No,1,2
+30-Above,Male,Housewife,31-60 days,1,1,2,2,0,Medium,Yes,1,2
+20-25,Female,Corporate,31-60 days,2,1,0,0,0,Medium,No,1,1
+25-30,Female,Student,More than 2 months,2,2,1,0,0,Medium,No,2,2
+30-Above,Male,Others,31-60 days,0,2,1,2,1,High,Yes,0,2
+30-Above,Female,Housewife,1-14 days,1,2,1,2,2,High,No,0,1
+16-20,Female,Corporate,1-14 days,2,2,0,0,1,Low,Yes,2,0
+25-30,Female,Student,Go out Every day,1,2,0,0,2,High,No,0,0
+25-30,Female,Corporate,31-60 days,2,0,0,0,1,Low,No,1,2
+30-Above,Female,Corporate,1-14 days,2,1,1,0,1,Low,No,0,2
+20-25,Male,Housewife,More than 2 months,2,0,0,0,2,Medium,Yes,2,0
+16-20,Male,Business,Go out Every day,1,0,0,2,2,Low,Yes,1,2
+25-30,Female,Corporate,Go out Every day,0,0,1,1,2,Medium,No,0,2
+25-30,Female,Corporate,1-14 days,1,0,2,2,2,Low,No,1,0
+16-20,Female,Others,15-30 days,0,2,2,0,2,Medium,Yes,0,0
+16-20,Female,Student,More than 2 months,1,1,2,2,0,Medium,Yes,1,2
+25-30,Female,Corporate,1-14 days,0,1,2,0,1,Low,No,0,1
+20-25,Female,Housewife,31-60 days,1,1,2,0,0,Low,Yes,1,1
+25-30,Female,Housewife,31-60 days,1,1,2,1,0,Medium,No,0,0
+30-Above,Male,Others,Go out Every day,2,1,2,1,1,High,Yes,1,0
+20-25,Female,Student,Go out Every day,0,2,1,1,1,High,No,1,2
+25-30,Female,Student,Go out Every day,1,0,2,0,1,Low,No,2,1
+30-Above,Male,Housewife,Go out Every day,1,2,2,1,1,Low,No,1,1
+30-Above,Male,Corporate,1-14 days,0,1,2,1,1,Medium,Yes,0,1
+30-Above,Male,Housewife,15-30 days,2,0,2,2,2,Low,No,2,2
+16-20,Female,Others,1-14 days,0,0,2,2,1,Low,Yes,1,2
+16-20,Female,Others,More than 2 months,2,1,1,2,0,Low,Yes,1,2
+25-30,Male,Corporate,More than 2 months,2,0,1,0,1,Medium,No,0,1
+30-Above,Female,Others,More than 2 months,1,0,1,0,1,Medium,Yes,2,2
+25-30,Female,Student,Go out Every day,0,0,0,2,1,Low,Yes,2,1
+20-25,Female,Business,1-14 days,1,1,2,1,0,Low,No,2,1
+25-30,Male,Housewife,Go out Every day,1,0,1,0,1,Low,Yes,0,0
+25-30,Female,Housewife,1-14 days,2,0,1,1,0,Low,No,0,2
+16-20,Female,Business,1-14 days,1,1,0,2,0,High,No,2,0
+20-25,Female,Business,15-30 days,1,2,2,0,1,Low,Yes,0,2
+20-25,Male,Corporate,15-30 days,1,1,0,2,1,Medium,Yes,0,1
+20-25,Male,Housewife,Go out Every day,0,2,1,0,0,High,No,2,1
+25-30,Female,Housewife,1-14 days,2,0,2,0,0,Low,Yes,0,0
+30-Above,Female,Student,More than 2 months,0,2,2,1,1,Medium,No,2,0
+30-Above,Male,Student,15-30 days,2,1,1,1,0,Medium,No,1,2
+30-Above,Female,Corporate,1-14 days,0,2,0,1,1,High,Yes,1,1
+30-Above,Male,Others,31-60 days,2,0,2,2,1,Medium,No,0,0
+30-Above,Female,Student,More than 2 months,2,0,2,1,0,High,No,2,1
+16-20,Female,Housewife,Go out Every day,2,2,1,0,1,Low,Yes,2,0
+30-Above,Female,Business,31-60 days,0,0,1,2,2,Low,Yes,0,2
+20-25,Female,Student,Go out Every day,1,2,1,1,2,High,No,0,2
+25-30,Male,Housewife,More than 2 months,1,0,1,2,0,High,No,0,1
+25-30,Female,Corporate,More than 2 months,0,2,1,0,2,High,No,1,0
+20-25,Male,Business,More than 2 months,1,1,0,2,0,Low,Yes,2,1
+16-20,Female,Student,Go out Every day,2,1,1,1,1,Low,Yes,1,2
+30-Above,Female,Business,15-30 days,2,2,1,2,2,Medium,No,0,1
+16-20,Male,Housewife,1-14 days,0,1,2,0,0,Low,No,1,1
+16-20,Male,Housewife,Go out Every day,0,1,1,2,0,Medium,Yes,0,2
+16-20,Female,Business,1-14 days,1,2,0,0,0,High,No,1,1
+16-20,Female,Others,31-60 days,1,1,2,2,0,High,No,1,0
+30-Above,Male,Housewife,Go out Every day,2,2,1,1,2,High,Yes,2,2
+16-20,Male,Corporate,1-14 days,1,1,2,0,1,Low,No,2,0
+20-25,Male,Student,1-14 days,2,2,1,0,1,High,No,1,2
+16-20,Male,Student,More than 2 months,1,1,2,1,0,Medium,Yes,0,2
+20-25,Female,Corporate,31-60 days,1,1,2,1,1,High,No,2,2
+30-Above,Female,Business,31-60 days,2,2,0,1,2,Low,No,1,2
+25-30,Female,Student,Go out Every day,0,0,1,1,2,Low,No,0,1
+20-25,Female,Business,More than 2 months,0,1,1,2,0,High,Yes,2,1
+30-Above,Female,Business,31-60 days,2,0,1,2,1,High,Yes,0,1
+30-Above,Female,Others,More than 2 months,1,2,0,0,0,Medium,Yes,2,2
+25-30,Female,Business,1-14 days,1,2,2,1,0,Medium,Yes,1,0
+16-20,Male,Housewife,Go out Every day,0,0,2,2,2,Medium,No,2,0
+30-Above,Female,Others,15-30 days,0,1,1,1,1,Low,No,1,1
+16-20,Male,Corporate,15-30 days,1,0,0,1,1,High,Yes,2,2
+20-25,Female,Housewife,31-60 days,1,2,2,2,1,Low,No,1,2
+16-20,Male,Housewife,31-60 days,0,1,1,2,1,Low,Yes,2,1
+30-Above,Female,Housewife,15-30 days,1,1,1,1,0,Medium,Yes,2,2
+16-20,Female,Housewife,31-60 days,2,2,0,0,2,Medium,No,0,2
+20-25,Male,Housewife,15-30 days,2,2,2,2,2,High,No,0,1
+30-Above,Male,Student,31-60 days,1,0,0,0,2,High,Yes,0,2
+20-25,Female,Housewife,15-30 days,0,0,1,2,2,Low,Yes,1,2
+25-30,Male,Student,1-14 days,2,0,0,1,2,Medium,No,1,2
+30-Above,Male,Business,15-30 days,0,1,2,0,2,High,No,2,1
+20-25,Female,Others,31-60 days,0,2,1,2,0,High,Yes,0,1
+25-30,Male,Business,1-14 days,0,1,0,0,1,Low,No,2,0
+30-Above,Male,Business,Go out Every day,1,0,1,0,0,Medium,No,0,0
+16-20,Female,Others,15-30 days,0,2,2,2,1,High,No,2,2
+30-Above,Female,Corporate,More than 2 months,0,2,1,2,1,Low,Yes,2,1
+25-30,Male,Student,Go out Every day,2,2,0,1,2,High,Yes,1,2
+25-30,Female,Others,More than 2 months,2,2,2,0,2,Medium,Yes,0,0
+16-20,Male,Corporate,More than 2 months,0,1,2,1,0,High,Yes,1,0
+16-20,Male,Student,31-60 days,1,2,0,0,0,High,Yes,1,1
+25-30,Male,Others,Go out Every day,0,2,0,2,0,Medium,No,2,2
+25-30,Female,Housewife,More than 2 months,2,1,1,2,1,High,Yes,0,1
+30-Above,Male,Housewife,Go out Every day,2,2,1,0,2,Low,No,1,2
+20-25,Female,Student,Go out Every day,1,1,0,2,1,Medium,No,2,2
+25-30,Female,Business,Go out Every day,0,2,1,0,2,Medium,No,2,2
+25-30,Female,Business,15-30 days,0,2,1,1,1,High,No,1,0
+20-25,Female,Housewife,31-60 days,1,2,0,2,2,Medium,No,1,2
+30-Above,Female,Corporate,15-30 days,1,1,2,0,0,High,No,2,0
+16-20,Female,Student,Go out Every day,0,1,1,1,1,Low,No,0,2
+16-20,Female,Student,Go out Every day,1,0,1,2,1,Medium,No,0,0
+30-Above,Male,Business,31-60 days,0,1,1,1,2,Medium,No,1,2
+25-30,Female,Housewife,Go out Every day,2,2,1,1,1,Low,Yes,2,2
+16-20,Male,Housewife,More than 2 months,1,2,2,2,0,Low,Yes,0,1
+20-25,Male,Others,1-14 days,1,1,1,0,2,Low,Yes,0,1
+25-30,Female,Housewife,15-30 days,1,1,2,2,0,High,Yes,2,2
+30-Above,Male,Student,More than 2 months,2,2,1,0,2,Low,No,0,0
+16-20,Male,Student,15-30 days,1,0,0,2,0,High,No,2,2
+25-30,Male,Corporate,1-14 days,2,2,0,0,1,Low,Yes,2,1
+30-Above,Male,Corporate,More than 2 months,0,1,1,0,1,Medium,Yes,0,0
+30-Above,Male,Housewife,More than 2 months,1,2,0,0,1,Low,No,0,1
+20-25,Male,Others,1-14 days,1,2,2,2,2,Low,No,0,2
+16-20,Male,Business,More than 2 months,2,2,2,0,1,High,Yes,2,1
+30-Above,Female,Housewife,15-30 days,2,1,0,2,0,Low,Yes,1,0
+20-25,Female,Business,31-60 days,1,1,1,2,2,Low,Yes,2,0
+20-25,Female,Housewife,Go out Every day,2,2,2,1,0,Medium,Yes,2,1
+20-25,Male,Others,1-14 days,2,0,1,2,0,Low,Yes,2,2
+20-25,Male,Housewife,1-14 days,0,0,1,2,0,Low,Yes,1,1
+20-25,Male,Housewife,31-60 days,0,1,1,0,2,Low,Yes,2,2
+25-30,Male,Business,31-60 days,0,2,1,2,2,Low,No,2,1
+25-30,Female,Housewife,15-30 days,0,1,1,2,2,Medium,No,0,0
+16-20,Female,Others,1-14 days,1,2,2,1,1,Low,Yes,0,2
+30-Above,Male,Others,1-14 days,2,0,0,1,1,Medium,Yes,0,0
+20-25,Female,Housewife,1-14 days,1,1,0,1,0,Medium,No,2,2
+16-20,Male,Corporate,1-14 days,2,0,1,1,2,High,No,0,1
+16-20,Female,Others,More than 2 months,0,0,1,1,1,Low,Yes,1,0
+16-20,Male,Housewife,31-60 days,2,2,0,2,2,High,Yes,1,1
+25-30,Male,Housewife,15-30 days,0,0,0,0,2,Low,No,0,0
+16-20,Female,Student,More than 2 months,1,0,2,2,2,Low,Yes,2,1
+30-Above,Female,Corporate,1-14 days,2,0,1,2,1,High,Yes,0,0
+30-Above,Female,Student,15-30 days,0,0,1,0,2,Medium,Yes,2,2
+25-30,Male,Housewife,1-14 days,1,0,1,0,2,Medium,No,0,1
+20-25,Female,Others,More than 2 months,0,0,0,1,0,High,No,0,1
+16-20,Male,Others,31-60 days,1,0,2,1,0,High,Yes,2,1
+16-20,Male,Corporate,15-30 days,0,1,0,0,1,Medium,No,2,2
+25-30,Female,Student,31-60 days,1,0,2,0,0,High,Yes,0,0
+20-25,Female,Student,Go out Every day,1,0,1,1,0,Medium,Yes,0,1
+30-Above,Female,Housewife,31-60 days,2,0,1,1,1,Low,No,2,2
+25-30,Male,Corporate,1-14 days,1,0,0,0,2,Medium,No,0,0
+20-25,Male,Business,15-30 days,2,1,2,0,0,Medium,Yes,2,1
+20-25,Female,Corporate,31-60 days,2,2,2,1,1,Medium,Yes,1,0
+30-Above,Male,Housewife,More than 2 months,2,1,1,0,2,Medium,No,2,0
+30-Above,Male,Business,More than 2 months,2,1,0,0,1,Medium,No,0,0
+20-25,Female,Others,31-60 days,1,0,0,0,1,Medium,Yes,1,2
+16-20,Male,Student,1-14 days,2,2,1,0,1,Medium,No,0,2
+20-25,Male,Business,1-14 days,0,1,2,1,2,Low,No,0,1
+16-20,Female,Housewife,15-30 days,0,1,0,0,2,High,Yes,2,1
+20-25,Male,Business,1-14 days,2,0,0,0,2,Low,Yes,1,0
+30-Above,Female,Corporate,More than 2 months,2,2,2,2,2,High,No,0,2
+16-20,Male,Corporate,Go out Every day,2,1,0,0,0,Medium,Yes,1,0
+30-Above,Female,Corporate,31-60 days,1,2,0,0,1,Low,No,1,2
+30-Above,Male,Housewife,1-14 days,2,1,1,0,2,Low,No,2,0
+20-25,Male,Business,More than 2 months,1,1,2,0,0,Medium,Yes,2,1
+25-30,Male,Corporate,15-30 days,0,1,1,0,2,High,No,1,0
+20-25,Male,Housewife,1-14 days,0,1,1,0,1,Medium,No,2,0
+30-Above,Female,Student,More than 2 months,1,0,2,2,1,High,Yes,0,0
+16-20,Male,Student,31-60 days,0,0,2,1,1,High,Yes,2,0
+16-20,Male,Others,Go out Every day,1,1,2,0,0,Low,Yes,0,0
+16-20,Male,Student,15-30 days,2,1,2,2,0,Low,Yes,1,2
+25-30,Female,Student,More than 2 months,1,1,0,0,2,Low,No,1,2
+25-30,Male,Housewife,1-14 days,2,1,1,2,0,Low,No,1,0
+20-25,Female,Others,More than 2 months,2,2,2,0,0,Medium,No,2,2
+30-Above,Male,Corporate,More than 2 months,0,1,0,2,0,High,Yes,2,1
+25-30,Female,Housewife,31-60 days,0,2,1,1,0,High,No,0,1
+30-Above,Female,Student,More than 2 months,0,0,0,0,0,Low,Yes,0,1
+16-20,Male,Business,More than 2 months,0,1,1,0,0,High,Yes,0,1
+25-30,Female,Housewife,15-30 days,2,1,1,1,1,High,No,1,2
+25-30,Female,Housewife,More than 2 months,2,0,1,0,0,High,No,1,0
+16-20,Female,Housewife,Go out Every day,1,1,2,0,0,High,No,2,2
+20-25,Female,Corporate,1-14 days,2,0,2,2,1,High,Yes,1,0
+25-30,Female,Corporate,More than 2 months,2,1,1,0,1,Medium,No,2,2
+25-30,Female,Student,15-30 days,2,0,2,2,2,High,No,0,1
+30-Above,Female,Business,More than 2 months,1,1,1,2,2,Low,No,1,2
+30-Above,Male,Others,Go out Every day,0,2,0,0,1,Medium,No,0,1
+30-Above,Male,Others,More than 2 months,2,1,0,0,1,Medium,No,0,1
+25-30,Female,Others,31-60 days,1,0,2,2,1,Medium,No,1,0
+16-20,Female,Housewife,15-30 days,1,0,0,2,2,High,Yes,1,0
+30-Above,Female,Student,31-60 days,0,0,1,0,0,High,No,0,2
+16-20,Female,Housewife,15-30 days,1,1,0,0,2,High,Yes,2,1
+20-25,Female,Business,Go out Every day,0,2,1,2,1,Medium,No,2,0
+16-20,Male,Corporate,More than 2 months,1,1,2,2,0,Medium,No,0,0
+25-30,Female,Student,1-14 days,1,1,0,2,2,High,Yes,0,1
+16-20,Female,Student,31-60 days,0,0,2,0,2,Medium,No,2,2
+16-20,Female,Corporate,Go out Every day,2,2,1,1,1,Medium,Yes,2,1
+25-30,Male,Housewife,Go out Every day,0,0,2,0,1,Low,Yes,0,2
+16-20,Female,Business,15-30 days,2,1,2,1,2,Medium,No,1,2
+25-30,Female,Others,More than 2 months,0,1,0,1,2,High,Yes,2,0
+20-25,Female,Others,1-14 days,2,2,0,1,0,Medium,No,0,2
+20-25,Male,Student,15-30 days,0,1,2,0,1,High,No,1,0
+30-Above,Female,Others,31-60 days,0,2,1,2,0,Low,Yes,0,1
+20-25,Male,Housewife,1-14 days,1,1,0,2,1,High,No,1,0
+30-Above,Male,Others,15-30 days,0,1,2,1,0,High,No,1,0
+30-Above,Female,Others,More than 2 months,2,1,0,0,1,Medium,No,0,2
+20-25,Male,Others,15-30 days,0,0,1,1,1,Low,Yes,2,1
+20-25,Female,Housewife,31-60 days,2,1,2,0,1,High,Yes,1,2
+30-Above,Male,Housewife,31-60 days,2,0,1,1,0,Low,Yes,1,1
+30-Above,Female,Housewife,Go out Every day,0,0,0,0,1,Low,Yes,0,2
+20-25,Female,Business,31-60 days,1,0,0,0,0,Low,No,2,0
+25-30,Female,Others,15-30 days,2,2,0,1,0,Low,No,0,2
+25-30,Male,Housewife,1-14 days,2,0,2,2,2,Low,No,1,0
+20-25,Male,Housewife,Go out Every day,2,1,0,2,0,Low,No,0,1
+20-25,Female,Corporate,15-30 days,2,0,1,1,0,Low,No,1,2
+20-25,Female,Housewife,More than 2 months,1,2,0,2,0,High,Yes,2,0
+25-30,Male,Business,1-14 days,2,0,1,0,2,Medium,No,0,1
+16-20,Male,Business,Go out Every day,1,0,0,1,2,Low,Yes,0,0
+20-25,Male,Housewife,Go out Every day,2,2,0,2,1,Low,Yes,2,0
+30-Above,Female,Others,15-30 days,1,1,1,1,2,High,No,0,2
+16-20,Female,Student,15-30 days,0,0,0,2,0,Medium,No,2,1
+16-20,Female,Student,1-14 days,2,0,2,0,1,High,No,2,1
+16-20,Female,Business,15-30 days,2,2,1,2,1,High,No,2,1
+16-20,Female,Student,15-30 days,0,0,2,2,2,High,No,1,1
+25-30,Female,Business,More than 2 months,0,2,1,1,0,Low,Yes,1,2
+16-20,Female,Housewife,15-30 days,0,0,1,0,0,Medium,No,0,1
+20-25,Female,Student,15-30 days,0,1,1,0,0,High,Yes,2,0
+30-Above,Female,Housewife,More than 2 months,1,2,1,1,2,Low,No,1,1
+25-30,Female,Others,1-14 days,0,1,2,1,0,Medium,Yes,0,1
+25-30,Female,Student,31-60 days,2,0,2,2,1,Low,Yes,1,0
+20-25,Female,Others,Go out Every day,1,1,2,0,2,Low,No,1,1
+30-Above,Female,Housewife,1-14 days,0,1,2,2,2,High,No,0,0
+20-25,Female,Housewife,1-14 days,1,2,2,2,0,High,Yes,2,0
+16-20,Female,Housewife,1-14 days,2,2,1,1,0,Medium,No,0,1
+20-25,Female,Housewife,More than 2 months,2,0,2,0,1,High,No,0,2
+30-Above,Male,Business,Go out Every day,1,0,1,1,2,High,Yes,1,1
+30-Above,Male,Others,More than 2 months,2,0,1,0,1,Low,No,2,1
+16-20,Male,Others,More than 2 months,2,1,2,2,1,High,Yes,0,2
+25-30,Female,Corporate,1-14 days,0,1,1,1,2,High,Yes,0,1
+20-25,Male,Housewife,More than 2 months,0,2,0,2,2,High,Yes,0,0
+20-25,Female,Others,31-60 days,2,1,1,0,0,Medium,No,2,1
+30-Above,Female,Student,More than 2 months,2,1,0,2,0,Low,No,2,0
+16-20,Female,Business,31-60 days,2,0,0,1,0,Medium,Yes,0,0
+25-30,Male,Housewife,1-14 days,1,1,0,2,1,Low,No,0,0
+16-20,Male,Housewife,31-60 days,0,2,2,1,0,Medium,Yes,2,0
+25-30,Male,Housewife,1-14 days,2,1,1,1,1,Medium,Yes,0,1
+25-30,Female,Business,31-60 days,0,1,0,1,1,Medium,No,0,0
+30-Above,Male,Housewife,31-60 days,1,1,0,1,0,High,Yes,2,0
+25-30,Male,Student,15-30 days,0,2,0,2,1,High,Yes,0,0
+30-Above,Male,Housewife,Go out Every day,2,0,0,0,1,High,Yes,0,2
+30-Above,Female,Student,Go out Every day,1,1,2,2,1,Low,Yes,0,0
+20-25,Female,Others,31-60 days,1,2,0,1,0,High,No,0,2
+25-30,Female,Others,15-30 days,0,0,2,2,2,Low,Yes,2,2
+20-25,Male,Student,31-60 days,1,2,2,0,0,Low,Yes,2,2
+30-Above,Female,Others,1-14 days,1,1,1,1,0,High,No,0,2
+25-30,Female,Corporate,1-14 days,1,0,1,1,1,Medium,No,1,1
+30-Above,Male,Corporate,More than 2 months,0,0,2,2,2,Medium,No,2,2
+16-20,Female,Business,Go out Every day,2,2,1,2,2,Low,No,2,2
+20-25,Female,Student,Go out Every day,1,1,0,2,1,Low,Yes,0,2
+30-Above,Male,Others,Go out Every day,0,0,1,0,2,Low,No,1,1
+20-25,Male,Business,1-14 days,1,0,2,1,1,High,No,1,1
+25-30,Female,Student,Go out Every day,0,0,0,2,1,High,Yes,0,0
+16-20,Female,Student,1-14 days,1,0,0,1,1,Low,Yes,1,1
+25-30,Male,Corporate,Go out Every day,1,2,1,1,0,Medium,Yes,0,0
+20-25,Male,Student,31-60 days,0,2,2,0,0,Medium,Yes,2,1
+30-Above,Male,Housewife,1-14 days,0,1,2,1,0,Medium,No,2,1
+16-20,Female,Others,1-14 days,1,1,2,0,0,Medium,Yes,1,0
+20-25,Male,Business,1-14 days,2,1,2,0,0,Medium,Yes,0,0
+30-Above,Male,Housewife,More than 2 months,2,0,1,1,2,High,Yes,0,0
+25-30,Male,Corporate,Go out Every day,0,0,0,0,2,Medium,Yes,1,1
+25-30,Female,Student,Go out Every day,1,1,0,1,2,Medium,No,1,0
+20-25,Female,Corporate,31-60 days,2,0,0,1,0,Medium,Yes,0,1
+25-30,Male,Others,1-14 days,2,0,2,2,1,Low,No,0,2
+30-Above,Male,Corporate,31-60 days,1,0,2,2,0,Medium,No,1,0
+20-25,Male,Student,1-14 days,1,2,2,2,2,High,Yes,2,1
+25-30,Female,Business,More than 2 months,2,1,1,0,2,Medium,No,0,1
+20-25,Female,Housewife,15-30 days,0,0,0,2,2,High,No,0,0
+25-30,Male,Student,More than 2 months,2,1,1,0,2,Medium,Yes,0,0
+30-Above,Female,Corporate,Go out Every day,1,0,0,2,1,High,Yes,1,1
+16-20,Female,Corporate,More than 2 months,0,0,0,2,0,High,No,0,2
+16-20,Male,Corporate,31-60 days,1,0,2,1,1,Medium,Yes,2,0
+20-25,Male,Business,Go out Every day,2,1,0,1,2,Medium,No,1,2
+30-Above,Female,Business,More than 2 months,0,0,2,2,1,High,Yes,2,0
+25-30,Female,Others,1-14 days,1,1,0,0,2,Low,No,2,2
+30-Above,Female,Others,More than 2 months,0,2,0,2,0,Low,No,1,0
+20-25,Male,Corporate,15-30 days,1,1,0,1,0,Medium,Yes,2,2
+16-20,Male,Corporate,Go out Every day,0,2,0,1,1,Low,Yes,0,2
+16-20,Female,Business,1-14 days,0,0,0,0,2,Medium,No,0,1
+25-30,Male,Corporate,31-60 days,1,1,2,1,1,Low,No,1,1
+20-25,Female,Business,15-30 days,0,2,0,0,0,Medium,Yes,0,0
+30-Above,Male,Others,15-30 days,1,0,1,1,1,Low,Yes,1,0
+30-Above,Female,Housewife,31-60 days,2,2,1,1,0,High,Yes,2,2
+25-30,Male,Corporate,More than 2 months,0,2,0,1,0,High,No,1,1
+16-20,Male,Student,31-60 days,1,2,1,2,0,Medium,No,0,1
+25-30,Female,Corporate,15-30 days,1,0,0,0,1,Medium,Yes,0,2
+25-30,Male,Student,1-14 days,2,0,1,2,0,Medium,No,0,0
+20-25,Female,Others,More than 2 months,0,2,2,0,0,Medium,No,0,0
+16-20,Female,Others,Go out Every day,1,2,1,2,0,Medium,Yes,1,1
+30-Above,Male,Others,More than 2 months,1,2,2,2,1,Low,No,2,0
+20-25,Male,Housewife,Go out Every day,2,1,2,2,2,Medium,Yes,0,1
+20-25,Male,Corporate,31-60 days,1,2,1,2,1,High,No,1,2
+30-Above,Male,Housewife,1-14 days,0,1,0,0,1,Low,No,2,1
+16-20,Female,Housewife,1-14 days,2,1,1,1,1,Low,Yes,0,1
+25-30,Male,Student,Go out Every day,2,0,0,2,0,Low,Yes,0,1
+25-30,Female,Others,15-30 days,0,0,0,1,0,Medium,Yes,1,0
+16-20,Male,Business,1-14 days,1,2,0,1,0,Medium,No,1,1
+20-25,Female,Business,15-30 days,2,2,1,1,2,High,No,2,2
+16-20,Female,Corporate,Go out Every day,0,0,2,1,1,High,No,2,1
+30-Above,Male,Others,31-60 days,1,1,1,0,0,High,No,1,2
+20-25,Female,Housewife,1-14 days,1,1,0,1,0,Low,Yes,0,1
+30-Above,Male,Others,31-60 days,0,2,0,1,0,High,No,0,0
+16-20,Female,Business,Go out Every day,2,1,1,2,1,Low,No,1,1
+20-25,Female,Others,15-30 days,1,2,2,1,0,High,No,2,1
+16-20,Male,Business,31-60 days,0,0,0,0,2,Low,Yes,0,0
+30-Above,Male,Student,15-30 days,1,0,2,2,1,High,No,2,0
+25-30,Male,Corporate,31-60 days,2,1,1,0,2,Medium,No,1,1
+20-25,Male,Housewife,1-14 days,2,0,0,2,0,Low,Yes,0,1
+16-20,Male,Student,Go out Every day,1,0,1,0,0,Medium,No,2,2
+30-Above,Female,Housewife,15-30 days,0,2,2,2,2,Low,Yes,1,0
+25-30,Female,Others,31-60 days,0,0,2,2,2,High,Yes,2,0
+30-Above,Male,Corporate,31-60 days,2,2,1,1,0,Medium,No,1,0
+20-25,Female,Student,1-14 days,0,0,1,1,0,Medium,No,1,1
+25-30,Female,Student,1-14 days,1,0,0,2,2,High,No,2,2
+16-20,Female,Student,More than 2 months,1,1,1,2,0,Medium,Yes,1,0
+30-Above,Female,Housewife,Go out Every day,2,1,1,1,1,Low,Yes,2,1
+20-25,Male,Others,15-30 days,2,2,0,1,0,High,No,1,2
+30-Above,Female,Others,31-60 days,2,2,2,1,0,Medium,Yes,2,1
+20-25,Male,Corporate,1-14 days,0,1,1,0,1,Low,Yes,0,1
+30-Above,Female,Student,1-14 days,0,2,0,1,1,Medium,No,2,0
+30-Above,Female,Housewife,31-60 days,2,1,1,1,2,Medium,Yes,2,2
+16-20,Male,Business,1-14 days,1,1,2,0,2,Medium,No,2,2
+25-30,Female,Others,More than 2 months,1,1,2,2,0,High,Yes,2,1
+20-25,Male,Student,31-60 days,1,0,1,1,0,Medium,No,0,0
+16-20,Male,Housewife,1-14 days,0,1,1,0,0,High,Yes,0,1
+25-30,Male,Others,31-60 days,0,1,1,2,2,Low,No,2,2
+16-20,Female,Student,15-30 days,0,2,1,0,1,Low,No,2,2
+30-Above,Female,Business,31-60 days,0,1,1,2,2,Medium,Yes,1,2
+16-20,Female,Housewife,More than 2 months,0,1,2,2,1,Medium,No,0,0
+25-30,Female,Business,1-14 days,2,1,1,0,1,Medium,Yes,2,1
+25-30,Female,Business,1-14 days,1,0,1,0,1,Medium,Yes,1,1
+25-30,Male,Corporate,More than 2 months,1,1,0,2,2,Low,No,2,0
+16-20,Male,Others,31-60 days,0,1,1,0,2,Medium,Yes,2,0
+16-20,Male,Student,Go out Every day,2,1,2,1,2,High,No,2,2
+16-20,Female,Student,15-30 days,2,0,0,0,0,Low,Yes,0,2
+30-Above,Male,Business,1-14 days,1,0,2,0,0,High,Yes,2,1
+16-20,Male,Corporate,Go out Every day,0,1,1,0,0,Low,Yes,2,2
+20-25,Male,Others,1-14 days,0,0,1,0,2,Low,No,2,0
+30-Above,Male,Business,15-30 days,0,0,1,1,0,Medium,Yes,0,0
+20-25,Male,Others,1-14 days,2,0,2,1,2,Medium,No,0,2
+30-Above,Female,Others,More than 2 months,1,2,0,2,2,High,Yes,0,0
+25-30,Male,Student,More than 2 months,0,2,2,1,1,Low,Yes,1,2
+25-30,Female,Corporate,31-60 days,1,1,0,2,0,Low,No,2,0
+25-30,Female,Others,31-60 days,1,0,1,0,0,Medium,No,1,2
+16-20,Female,Housewife,More than 2 months,2,1,0,2,1,Low,Yes,1,1
+30-Above,Male,Others,1-14 days,2,0,1,0,0,Low,No,1,0
+30-Above,Female,Student,Go out Every day,0,1,2,0,1,High,Yes,2,2
+25-30,Female,Housewife,1-14 days,1,1,2,2,1,Medium,Yes,1,0
+30-Above,Female,Others,1-14 days,1,1,0,0,0,High,Yes,2,1
+16-20,Male,Student,1-14 days,0,2,1,0,1,High,Yes,2,2
+20-25,Male,Business,31-60 days,1,2,2,1,0,Low,Yes,1,1
+30-Above,Male,Housewife,15-30 days,1,1,1,1,2,Low,Yes,1,0
+30-Above,Male,Housewife,1-14 days,0,1,1,0,2,High,Yes,1,2
+16-20,Male,Others,1-14 days,0,0,1,0,0,Medium,Yes,2,0
+16-20,Female,Student,Go out Every day,0,2,0,2,0,Low,Yes,2,0
+25-30,Female,Housewife,15-30 days,2,0,1,0,2,Low,No,0,0
+25-30,Female,Housewife,1-14 days,1,2,1,1,1,Medium,Yes,1,2
+16-20,Female,Business,31-60 days,0,1,2,2,2,High,Yes,2,0
+20-25,Male,Others,Go out Every day,0,2,1,1,0,High,No,2,2
+20-25,Male,Business,Go out Every day,1,0,0,0,2,High,Yes,0,0
+25-30,Female,Student,31-60 days,0,2,1,0,0,Medium,Yes,2,2
+16-20,Female,Housewife,Go out Every day,0,2,2,0,0,Medium,No,2,2
+16-20,Female,Housewife,15-30 days,2,0,0,2,0,Medium,Yes,0,1
+16-20,Male,Corporate,Go out Every day,1,0,1,2,2,High,Yes,1,2
+16-20,Male,Corporate,31-60 days,1,1,2,0,2,High,No,0,2
+16-20,Female,Corporate,Go out Every day,0,0,0,2,1,Medium,No,2,0
+30-Above,Female,Student,More than 2 months,1,2,1,0,0,Medium,No,2,2
+16-20,Female,Student,31-60 days,1,2,2,1,0,Low,No,0,2
+16-20,Male,Student,15-30 days,2,2,1,1,1,Medium,Yes,0,1
+16-20,Male,Student,More than 2 months,2,1,1,1,0,Low,No,0,1
+30-Above,Male,Business,1-14 days,0,1,1,0,1,Low,Yes,0,1
+20-25,Female,Business,31-60 days,0,1,2,2,0,Medium,Yes,0,1
+20-25,Female,Student,31-60 days,2,2,1,2,1,Low,Yes,2,0
+20-25,Male,Student,More than 2 months,0,1,2,2,2,High,Yes,2,1
+16-20,Male,Corporate,15-30 days,1,2,2,1,0,Medium,No,2,2
+20-25,Female,Corporate,31-60 days,1,2,0,2,1,Medium,Yes,1,1
+20-25,Male,Business,15-30 days,0,2,0,1,1,Medium,No,2,1
+30-Above,Female,Others,More than 2 months,0,0,1,1,2,High,Yes,0,1
+16-20,Male,Housewife,Go out Every day,0,2,1,0,0,Low,Yes,0,1
+20-25,Female,Student,Go out Every day,2,2,0,2,1,Medium,Yes,0,0
+25-30,Male,Student,Go out Every day,1,2,0,0,0,High,No,0,0
+20-25,Male,Student,Go out Every day,2,2,0,1,2,High,No,0,1
+30-Above,Male,Housewife,More than 2 months,2,0,2,0,1,High,No,2,2
+16-20,Female,Others,15-30 days,1,1,0,2,0,Low,No,0,1
+25-30,Male,Student,1-14 days,0,2,2,1,1,High,Yes,2,0
+20-25,Male,Student,1-14 days,0,0,2,0,1,High,No,2,1
+20-25,Female,Student,Go out Every day,1,1,1,2,2,Low,Yes,1,1
+16-20,Female,Business,Go out Every day,1,1,0,0,1,Medium,Yes,2,2
+16-20,Male,Student,15-30 days,1,0,1,2,2,Medium,Yes,2,0
+16-20,Female,Housewife,Go out Every day,0,1,0,0,0,Medium,No,0,2
+16-20,Male,Corporate,1-14 days,2,1,2,0,1,High,No,0,0
+25-30,Male,Housewife,More than 2 months,0,2,0,2,2,High,Yes,0,2
+20-25,Male,Others,31-60 days,2,1,1,0,1,Low,No,2,2
+20-25,Female,Housewife,Go out Every day,2,1,2,1,2,Low,Yes,1,2
+30-Above,Male,Corporate,More than 2 months,2,0,1,0,0,Low,No,1,2
+25-30,Male,Student,1-14 days,2,0,1,0,0,Low,No,2,2
+16-20,Female,Student,15-30 days,2,1,2,0,1,High,No,1,0
+16-20,Male,Housewife,15-30 days,2,1,2,2,2,Low,No,0,2
+30-Above,Male,Housewife,31-60 days,1,1,0,1,2,Medium,No,1,2
+25-30,Female,Student,15-30 days,0,2,1,1,2,Medium,Yes,1,2
+25-30,Male,Housewife,More than 2 months,0,0,2,2,2,Medium,No,1,0
+20-25,Male,Business,More than 2 months,2,0,1,2,2,Medium,No,0,0
+25-30,Male,Housewife,Go out Every day,0,2,2,0,1,High,No,1,2
+30-Above,Male,Housewife,31-60 days,2,1,1,0,2,High,No,0,2
+16-20,Female,Others,Go out Every day,2,0,1,1,0,High,Yes,1,0
+30-Above,Female,Student,More than 2 months,2,2,2,0,0,Medium,Yes,0,0
+16-20,Male,Others,31-60 days,0,2,0,0,1,Low,Yes,2,2
+20-25,Male,Business,31-60 days,0,2,0,2,1,High,Yes,0,0
+20-25,Male,Student,31-60 days,1,2,2,2,2,Low,No,1,1
+25-30,Male,Business,More than 2 months,1,1,1,2,0,Medium,No,0,2
+16-20,Female,Student,1-14 days,0,1,1,0,0,Low,Yes,2,2
+25-30,Female,Student,15-30 days,0,1,2,1,0,Medium,Yes,2,0
+30-Above,Female,Housewife,Go out Every day,1,2,0,0,0,Low,No,0,1
+25-30,Male,Student,Go out Every day,2,1,2,0,2,High,Yes,2,0
+20-25,Male,Others,Go out Every day,1,0,1,0,2,Medium,Yes,0,2
+30-Above,Female,Housewife,1-14 days,1,1,0,1,2,High,No,1,1
+30-Above,Male,Corporate,15-30 days,0,2,0,2,1,Medium,No,2,0
+25-30,Female,Others,Go out Every day,1,0,2,0,2,High,Yes,2,0
+25-30,Male,Student,31-60 days,1,2,2,2,0,High,No,1,2
+16-20,Male,Housewife,Go out Every day,0,2,0,1,1,Medium,No,0,2
+16-20,Male,Student,1-14 days,0,0,0,0,0,Low,Yes,1,2
+16-20,Male,Business,More than 2 months,2,2,2,2,2,Low,No,0,2
+25-30,Female,Student,1-14 days,2,0,2,2,1,Low,No,1,0
+16-20,Male,Housewife,15-30 days,2,1,0,1,1,Medium,No,0,2
+16-20,Female,Corporate,Go out Every day,1,0,0,0,0,Medium,Yes,2,2
+16-20,Female,Student,More than 2 months,1,2,2,2,2,High,No,2,0
+30-Above,Female,Others,More than 2 months,1,2,0,1,1,Medium,No,0,0
+30-Above,Male,Business,15-30 days,1,0,2,1,2,High,No,0,0
+25-30,Male,Student,Go out Every day,2,0,2,0,2,High,No,1,0
+25-30,Male,Corporate,1-14 days,2,0,2,2,0,Low,No,1,2
+20-25,Female,Business,15-30 days,2,1,0,1,1,Medium,Yes,0,1
+25-30,Male,Student,31-60 days,2,0,1,2,1,High,Yes,1,2
+16-20,Female,Housewife,Go out Every day,2,1,1,0,0,Medium,No,0,0
+30-Above,Female,Others,1-14 days,2,2,1,1,2,Medium,Yes,2,0
+30-Above,Male,Others,More than 2 months,2,1,2,1,1,High,Yes,1,0
+20-25,Male,Student,More than 2 months,1,2,2,0,2,Medium,Yes,2,2
+16-20,Male,Corporate,31-60 days,0,0,2,1,2,Medium,Yes,0,1
+20-25,Male,Corporate,Go out Every day,0,1,0,1,1,Medium,No,1,2
+20-25,Male,Others,1-14 days,1,1,0,1,2,Low,No,2,2
+20-25,Male,Student,More than 2 months,1,2,2,0,1,High,Yes,1,2
+16-20,Male,Business,15-30 days,0,0,2,0,2,Low,Yes,0,2
+30-Above,Female,Others,15-30 days,0,0,0,0,1,Low,Yes,0,2
